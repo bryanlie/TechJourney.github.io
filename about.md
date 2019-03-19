@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a data scientist.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+“By definition all scientists are data scientists. In my opinion, they are half hacker, half analyst, they use data to build products and find insights. It’s Columbus meet Columbo -- starry-eyed explorers and skeptical detectives.” <br/>
+-- Monica Rogati, Independent Data Science Advisor
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[danli091981@gmail.com](mailto:danli091981@gmail.com)
