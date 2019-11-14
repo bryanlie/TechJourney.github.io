@@ -4,8 +4,6 @@ comments: true
 title: Introduction to quantum computing
 ---
 
-# Introduction to quantum computing
-
 Quantum Supremacy means that quantum computers could efficiently solve a computational problem 
 that a classical computer can only solve inefficiently. The question is can we achieve quantum
 supremacy in the near future? The answer is **NO**, but many industrial giants are betting on quantum computing.
