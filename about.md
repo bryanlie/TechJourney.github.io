@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a data scientist.
+I am a mathematician and data scientist, I am also interested in Finance.
 
 ### More Information
 
