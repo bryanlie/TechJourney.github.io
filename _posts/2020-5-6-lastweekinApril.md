@@ -4,11 +4,11 @@ comments: true
 title: Last week in April, First day in May
 ---
 
-## 四月最后一周回顾，五月美股恐转跌
+# 四月最后一周回顾，五月美股恐转跌
 
 大家好，我是李老师，想和大家分享下这周（04/27--05/01）我对美股的观察
 
-# 本周重要经济数据 
+## 本周重要经济数据 
 
 周一，无重要经济数据，原油期货继续下跌 
 
@@ -21,17 +21,17 @@ title: Last week in April, First day in May
 周五，四月制造业PMI 进一步下滑，今日是五月第一天，科技股领跌，大盘跌超3%
 
 
-# USO, XOM, COP 
+## USO, XOM, COP 
 
 OPEC 和俄罗斯有望达成减产协议，USO 1比8逆向Split，从16.xx有望反弹，XOM，COP 可作为价值投资机会，中长线有戏
 
-# SPY, QQQ 
+## SPY, QQQ 
 
 SPY 周线又反转的苗头，动能不足，MACD可能出现向下交叉，3K点估计是重要压力线，多空双方正在3K下方区间争夺，趋势未现
 
 QQQ 表现明显好于SPY，FANG 涨势惊人，也是近期市场的决定因素
 
-# TSLA, FB, AMZN, GOOG
+## TSLA, FB, AMZN, GOOG
 
 TSLA 财报喜人，但是还是从高点回落
 
