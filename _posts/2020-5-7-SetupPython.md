@@ -4,9 +4,9 @@ comments: true
 title: How to install Python
 ---
 
-## 如何安装Python
+# 如何安装Python
 
-# 什么是Python
+## 什么是Python
 
 Python 是一种高级编程语言，它是一种动态的面向对象的脚本语言。
 
@@ -19,7 +19,7 @@ Python 是一种高级编程语言，它是一种动态的面向对象的脚本�
 
 缺点： 执行速度慢，难于多线程编程等
 
-# 安装 Python
+## 安装 Python
 
 1. 直接装 Python3
 
@@ -33,7 +33,7 @@ Python 是一种高级编程语言，它是一种动态的面向对象的脚本�
 3. Pip
 另一个Python包管理器，安装Python的时候已经自动安装。如果要管理环境，需要另外安装Virtualenv。
 
-# 开发环境
+## 开发环境
 
 1. 编辑器, 比如 notepad, gedit
 
@@ -62,7 +62,7 @@ jupyter notebook
 
 <https://www.jetbrains.com/pycharm/download/>
 
-# 实践
+## 实践
 ```
 print('Hello, World!')
 ```
