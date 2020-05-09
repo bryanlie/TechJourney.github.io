@@ -21,16 +21,18 @@ Python 是一种高级编程语言，它是一种动态的面向对象的脚本�
 
 ## 安装 Python
 
-1. 直接装 Python3
+### *直接装 Python3
 
 <https://www.python.org/downloads/>
 
-2. 安装 Anaconda
+### *安装 Anaconda
+
 如果安装Anaconda，不需要先安装Python，强烈推荐使用。Anaconda是Python包管理器，且集成了环境管理的功能。如果觉得Anaconda太大，可以考虑安装miniconda。
 
 <https://www.anaconda.com/products/individual> 
 
-3. Pip
+### *Pip
+
 另一个Python包管理器，安装Python的时候已经自动安装。如果要管理环境，需要另外安装Virtualenv。
 
 ## 开发环境
