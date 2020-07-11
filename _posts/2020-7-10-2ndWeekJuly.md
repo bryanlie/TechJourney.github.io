@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: Second week in July, Hold 
+title: Second week in July, Up
 ---
 
 # 本周三大股指均收涨，科技股实体经济持续分化，应继续做多科技股
