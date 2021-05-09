@@ -6,7 +6,7 @@
 name: Journey to the West
 
 # Short bio or description (displayed in the header)
-description: Journey in Data Science
+description: A Blog about Finance and Data Science
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/25251545?s=460&v=4
@@ -26,7 +26,7 @@ footer-links:
   linkedin:  dan-li-02841391
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: @DanLi_Invest
+  twitter: DanLi_Invest
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: channel/UCkM33HZOdIoSqiEWapVgqZw
   googleplus: # anything in your profile username that comes after plus.google.com/
