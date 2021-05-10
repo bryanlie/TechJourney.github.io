@@ -1,18 +1,21 @@
 ---
-title: "Dan LI"
-image: "image/sun.png"
-links:
-  - label: LinkedIn
-    url: "https://www.linkedin.com/in/dan-li-02841391"
-  - label: Twitter
-    url: "https://twitter.com/DanLi_Invest"
-  - label: Email
-    url: "mailto: [danli091981]@[gmail]dot[com]"
-site: distill::distill_website
-output:
-  postcards::trestles
+layout: default
+comments: true
 ---
- 
-I am a mathematician and data scientist, I am also interested in Finance.
+
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
 
  
